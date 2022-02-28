@@ -1,0 +1,26 @@
+id: PF18331C0
+initial_creation_type: input
+source_metadata:
+  title: Nāgārjuna
+  language: pt
+  description: 'Texts by and about the great Indian philosopher-saint Ārya Nāgārjuna
+    (''phags pa klu sgrub, c.150 – c.250 CE), known to Tibetans as the founder of
+    the tradition of Profound View (zab mo lta ba):'
+  volume:
+    fa2b942d301f4231bad3413a62c15e6e:
+      title: Commentary on the Noble Essence of the Dharmadhātu
+      parent: Dependent Origination
+    4fdab08120a247f7b2d59f450dbb409f:
+      title: Verses on the Heart of Dependent Origination
+      parent: Dependent Origination
+    8519325f7faa4cdf88e9e57d157629d0:
+      title: In Praise of the Twelve Deeds of the Buddha
+      parent: Praise
+    41354118dd2547aab661b2e7f2e1ffdb:
+      title: 'Praise of the Buddha: With Skilful Means & Compassion...'
+      parent: Praise
+    2517db1d84f342b4b49f6b646c1ca00f:
+      title: Ultimate Praise of the Noble and Venerable Mañjuśrī
+      parent: Praise
+created_at: '2022-03-01T02:18:03.540242'
+last_modified_at: '2022-03-01T02:18:03.540245'
